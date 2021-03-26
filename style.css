@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding:0;
+    background-color:black;
+}
+.clock{
+    position: absolute;
+    right: 30%;
+    top: 5%;
+}
+.widge{
+    background-color: black;
+    position:absolute;
+    left:35%;
+    top: 3%;
+}
+.mesagge{
+    color:whitesmoke;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+.date_clock{
+    color: aliceblue;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+}
+cart{
+    color: aliceblue;
+    position:absolute;
+    left: 43%;
+    top: 40%;
+    font-weight: bolder;
+    font-size: 50px;
+    text-shadow:3px 3px;
+}
+.namaz_saatlieri{
+    position: absolute;
+    top: 3%;
+    left:1%;
+}
